@@ -23,8 +23,13 @@
 
 模板文件在这里：
 
-- `templates/creator_event_pm_workbook_bilingual.xlsx`
+## Download
 
+- [Bilingual Workbook](./creator_event_pm_workbook_bilingual.xlsx)
+- [Skill File](./skill.md)
+- [Prompt Bank](./event_ops_prompts.md)
+- [中文表格字段说明](./table_schema_cn.md)
+- [English Table Schema](./table_schema_en.md)
 ---
 
 # 操作方法
