@@ -23,11 +23,11 @@
 
 模板文件在这里：
 
-## Download
-
-- [Download the bilingual workbook](./templates/creator_event_pm_workbook_bilingual.xlsx?raw=1)
 - [Skill File](./skill.md)
 - [Prompt Bank](prompts/event_ops_prompts.md)
+- [Download the bilingual Excel workbook](./templates/creator_event_pm_workbook_bilingual.xlsx?raw=1)
+
+> Note: GitHub may not preview `.xlsx` files directly. If the file page looks blank, click **View raw** or the download icon to download the workbook.
 ---
 
 # 操作方法
