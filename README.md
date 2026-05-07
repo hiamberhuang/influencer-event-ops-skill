@@ -25,11 +25,9 @@
 
 ## Download
 
-- [Bilingual Workbook](./creator_event_pm_workbook_bilingual.xlsx)
+- [Bilingual Workbook](templates/creator_event_pm_workbook_bilingual.xlsx)
 - [Skill File](./skill.md)
-- [Prompt Bank](./event_ops_prompts.md)
-- [中文表格字段说明](./table_schema_cn.md)
-- [English Table Schema](./table_schema_en.md)
+- [Prompt Bank](prompts/event_ops_prompts.md)
 ---
 
 # 操作方法
